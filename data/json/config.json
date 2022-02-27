@@ -1,0 +1,10 @@
+{
+  "type": ["A1" ,"A2" ,"A3", "A4", "AG1", "AG2", "AG3", "DA", "DG1", "DG2", "DG3", "G", "Geo", "P1", "P2", "S1", "S2", "S3", "S4", "T1", "T2", "VA1", "VA2", "3D1", "3D2", "#N/A"],
+  "form": ["Form1", "Form2", "Form3", "Form4", "Form5", "Form6"],
+
+  "TypePath": "data//photo//Type//",
+  "FormPath": "data//photo//Form//",
+  "TypePathHTML": "data//photo//Type//HTML//",
+  "FormPathHTML": "data//photo//Form//HTML//"
+
+}

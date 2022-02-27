@@ -1,0 +1,1 @@
+import jsonimport openpyxlwb = openpyxl.load_workbook("data//data.xlsx")# print(wb.sheetnames)analysis = wb['analysis']form = wb['google form']# print(form["h3"].value)with open("data/json/Score.json", "r") as sf:    score = json.load(sf)score["Score"].clear()with open("data/json/Score.json", "w") as sf:    json.dump(score, sf)
